@@ -60,7 +60,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-## Consigli e trucchi di ricerca 🪄
+## Consigli e trucchi di ricerca 🔎
 
 - Per la ricerca di `Reparto`, preferire l'uso del codice univoco (es. R01 = Segreteria).
 - Per la ricerca dei "Dottori", usare le abbreviazioni "dott." o "dott.ssa".
