@@ -1,4 +1,4 @@
-# MedicalStaffApp - Gestione staff medico
+# MedicalStaffApp
 
 ## How it was created?
 
