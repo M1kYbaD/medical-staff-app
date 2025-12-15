@@ -2,7 +2,7 @@
 
 ## Consigli per la ricerca 🔎
 
-### Dottori
+### Dottore/i
 
 Per trovare i medici:
 
