@@ -34,7 +34,7 @@ Esempio:
 R03
 ```
 
-Il risultato sarà lo staff medico del reparto **Cardiologia**.
+Il risultato mostrerà lo staff medico del reparto **Cardiologia**.
 
 ---
 
