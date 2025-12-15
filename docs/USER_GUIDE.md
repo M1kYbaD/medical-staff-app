@@ -26,7 +26,6 @@ Per il campo **Reparto**, usare preferibilmente il **codice univoco**:
 | R02    | Medicina Interna |
 | R03    | Cardiologia      |
 | R04    | Neurologia       |
-| R05    | Oncologia        |
 | ...    | ...              |
 
 Esempio:
