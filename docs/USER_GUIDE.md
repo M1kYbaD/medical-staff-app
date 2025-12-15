@@ -35,4 +35,4 @@ Esempio:
 R03
 ```
 
-L'esempio mostrerà lo staff medico del reparto **Cardiologia**.
+Il risultato sarà lo staff medico del reparto **Cardiologia**.
