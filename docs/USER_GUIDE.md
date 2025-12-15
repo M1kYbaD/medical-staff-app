@@ -40,7 +40,7 @@ Il risultato sarà lo staff medico del reparto **Cardiologia**.
 
 ### Data di nascita
 
-Per filtrare la **data di nascita**, usare lo standard **ISO 8601**:
+Per filtrare la **data di nascita**, usare lo standard `ISO 8601`:
 
 Esempio:
 
