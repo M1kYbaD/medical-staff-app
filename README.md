@@ -1,6 +1,6 @@
 # MedicalStaffApp - Gestione staff medico
 
-App per la gestione del personale medico di una struttura sanitaria 🏥
+**App per la gestione del personale medico di una struttura sanitaria 🏥**
 
 ## How it was created?
 
