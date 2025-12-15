@@ -1,5 +1,7 @@
 # MedicalStaffApp
 
+MedicalStaffApp è un'app Angular per la gestione e la ricerca del personale medico e sanitario.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
 ## Development server
