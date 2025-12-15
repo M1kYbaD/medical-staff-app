@@ -42,8 +42,14 @@ Il risultato mostrerà lo staff medico del reparto **Cardiologia**.
 
 Per filtrare la **data di nascita**, usare lo standard `ISO 8601`:
 
-Esempio:
+Esempio completo:
 
 ```txt
 1985-05-12
+```
+
+Esempio ridotto:
+
+```txt
+1976
 ```
