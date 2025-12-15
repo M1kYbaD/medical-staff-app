@@ -63,4 +63,4 @@ For more information on using the Angular CLI, including detailed command refere
 ## Consigli e trucchi di ricerca 🔎
 
 - Per la ricerca di `Reparto`, preferire il codice univoco (es. R01 = Segreteria).
-- Per la ricerca dei "Dottori", usare le abbreviazioni `dott.` o `dott.ssa`.
+- Per la ricerca dei "Dottori", usare le abbreviazioni `dr.` o `dott.ssa`.
