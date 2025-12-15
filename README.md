@@ -2,6 +2,8 @@
 
 App per la gestione del personale medico di una struttura sanitaria 🏥
 
+## How it was created?
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
 ## Development server
