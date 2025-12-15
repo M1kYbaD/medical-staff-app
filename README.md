@@ -1,6 +1,6 @@
 # MedicalStaffApp - Gestione staff medico
 
-App per la gestione del personale medico 👨🏻‍⚕️
+App per la gestione del personale medico di una struttura sanitaria 👨🏻‍⚕️
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
