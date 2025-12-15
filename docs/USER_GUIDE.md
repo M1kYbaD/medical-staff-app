@@ -1,6 +1,6 @@
 # MedicalStaffApp – User Guide
 
-## 🔎 Consigli per la ricerca
+## Consigli per la ricerca 🔎
 
 ### Dottori
 
