@@ -34,3 +34,4 @@ Esempio:
 ```txt
 R03
 ```
+L'esempio mostrerà lo staff medico del reparto **Cardiologia**.
