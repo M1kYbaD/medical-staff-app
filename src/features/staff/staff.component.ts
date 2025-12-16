@@ -67,7 +67,7 @@ import { MedicalStaff } from './staff.types';
           aria-label="Previous page"
           (click)="prevPage()"
         >
-          &#8701;
+          &#8592;
         </button>
 
         <!-- NUMERI DELLE PAGINE -->
@@ -90,7 +90,7 @@ import { MedicalStaff } from './staff.types';
           aria-label="Next page"
           (click)="nextPage()"
         >
-          &#8702;
+          &#8594;
         </button>
       </nav>
       }
