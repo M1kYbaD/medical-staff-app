@@ -52,7 +52,7 @@ Esempio:
 R03
 ```
 
-Il risultato mostrerà **tutto** lo staff medico del reparto `Cardiologia`.
+Mostrerà **TUTTO** lo staff medico del reparto `Cardiologia`.
 
 ---
 
