@@ -34,7 +34,7 @@ dott.ssa ferri
 
 ---
 
-### Reparto
+### 🏥 Reparto
 
 Per il campo `Reparto`, è preferibile il **codice univoco**:
 
@@ -56,7 +56,7 @@ Il risultato mostrerà **tutto** lo staff medico del reparto `Cardiologia`.
 
 ---
 
-### Data di nascita
+### 🎂 Data di nascita
 
 Per filtrare la **data di nascita**, utilizzare il formato `ISO 8601`.
 
