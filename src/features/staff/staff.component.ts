@@ -219,7 +219,7 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn:hover:not(:disabled) {
-        background-color: rgba(0, 0, 0, 0.08); /* leggermente scuro */
+        background-color: rgba(0, 0, 0, 0.06); /* leggermente scuro */
       }
 
       .arrow-btn:disabled {
