@@ -205,19 +205,26 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn {
-        background: #ffffff;
+        background: transparent; /* niente sfondo */
+        border: none; /* niente bordo */
         width: 2.2rem;
-        text-align: center;
-        font-size: 1.2rem;
-        padding: 0.3rem;
+        height: 2.2rem;
         display: flex;
         align-items: center;
         justify-content: center;
-        border-radius: 25%;
+        font-size: 1.2rem;
+        cursor: pointer;
+        border-radius: 50%; /* hover più gradevole */
+        transition: background-color 0.2s ease;
       }
 
-      .arrow-btn:hover {
-        background: #f2f2f2;
+      .arrow-btn:hover:not(:disabled) {
+        background-color: rgba(0, 0, 0, 0.08); /* leggermente scuro */
+      }
+
+      .arrow-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
       }
     `,
   ],
