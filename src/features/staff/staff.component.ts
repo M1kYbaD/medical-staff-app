@@ -342,14 +342,14 @@ export class StaffComponent {
     {
       id: 17,
       name: 'Dr. Davide Sala',
-      date_of_birth: '1987-01-01',
+      date_of_birth: '1948-11-13',
       role: 'Chirurgo Ortopedico',
       department: 'Ortopedia (R06)',
     },
     {
       id: 18,
       name: 'Valerio Romano',
-      date_of_birth: '1948-11-13',
+      date_of_birth: '1987-01-01',
       role: 'Infermiere',
       department: 'Medicina Interna (R02)',
     },
