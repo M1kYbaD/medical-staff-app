@@ -205,7 +205,7 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn {
-        background: #f2f2f2;
+        background: #ffffff;
         width: 2.2rem;
         text-align: center;
         font-size: 1.2rem;
@@ -217,7 +217,7 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn:hover {
-        background: #e6e6e6;
+        background: #f2f2f2;
       }
     `,
   ],
