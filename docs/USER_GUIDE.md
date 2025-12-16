@@ -18,7 +18,7 @@ Esempi:
 
 ### Reparto
 
-Per il campo `**Reparto**`, usare preferibilmente il **codice univoco**:
+Per il campo `Reparto`, usare preferibilmente il **codice univoco**:
 
 | Codice | Reparto          |
 | ------ | ---------------- |
