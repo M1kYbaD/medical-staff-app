@@ -215,7 +215,7 @@ import { MedicalStaff } from './staff.types';
         font-size: 1.2rem;
         cursor: pointer;
         border-radius: 50%; /* hover più gradevole */
-        transition: background-color 0.2s ease;
+        transition: background-color 0.1s ease;
       }
 
       .arrow-btn:hover:not(:disabled) {
