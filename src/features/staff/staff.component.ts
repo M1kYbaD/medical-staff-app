@@ -156,14 +156,14 @@ import { MedicalStaff } from './staff.types';
       .pg-btn {
         padding: 0.4rem 0.75rem;
         font-size: 1rem;
-        border: 1px solid #808080;
-        background: #f5f5f5;
+        border: 1px solid #737373;
+        background: #f2f2f2;
         border-radius: 16px;
         cursor: pointer;
       }
 
       .pg-btn:hover {
-        background: #e6e6e6;
+        background: #d9d9d9;
       }
 
       .pg-btn.active {
@@ -205,6 +205,7 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn {
+        background: #f2f2f2;
         width: 2.2rem;
         text-align: center;
         font-size: 1.2rem;
