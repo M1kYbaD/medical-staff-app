@@ -6,8 +6,12 @@ Questa guida spiega come utilizzare al meglio i filtri di ricerca per trovare ra
 
 ## 🔎 Ricerca del personale
 
-La barra di ricerca consente di filtrare i risultati in base a nome, reparto e data di nascita.  
+La barra di ricerca consente di filtrare i risultati in base a nome, data di nascita, ruolo e reparto.  
 Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
+
+### Sensibilità
+
+La barra di ricerca è **case-insensitive**: non distingue tra maiuscole e minuscole.
 
 ---
 
