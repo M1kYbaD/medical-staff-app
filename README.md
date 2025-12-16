@@ -64,5 +64,5 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## User Guide
 
-For usage details (search tips, filters, conventions), see:
+For usage details (search tips, filters, conventions), see
 [User Guide](docs/USER_GUIDE.md)
