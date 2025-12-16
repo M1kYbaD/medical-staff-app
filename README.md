@@ -63,6 +63,8 @@ For more information on using the Angular CLI, including detailed command refere
 
 - This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
 
+---
+
 ## User Guide
 
 For usage details (search tips, filters, conventions), see
