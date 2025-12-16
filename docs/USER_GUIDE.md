@@ -1,24 +1,38 @@
 # MedicalStaffApp – User Guide
 
-## Consigli per la ricerca 🔎
+Questa guida spiega come utilizzare al meglio i filtri di ricerca per trovare rapidamente il personale medico e sanitario all’interno dell’applicazione.
 
-### Dottore/i
+---
 
-Per trovare i medici:
+## 🔎 Ricerca del personale
 
-- usare `dr.`
-- usare `dott.ssa`
+La barra di ricerca consente di filtrare i risultati in base a nome, reparto e data di nascita.  
+Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
 
-Esempi:
+---
 
-- `dr. sala`
-- `dott.ssa ferri`
+## 👨‍⚕️ Medici (Dottori e Dottoresse)
+
+Per cercare un medico, includere il titolo professionale nel campo di ricerca.
+
+### Formati supportati
+
+- `dr.`
+- `dott.ssa`
+
+### Esempi
+
+```txt
+dr. sala
+
+dott.ssa ferri
+```
 
 ---
 
 ### Reparto
 
-Per il campo `Reparto`, usare preferibilmente il **codice univoco**:
+Per il campo `Reparto`, è preferibile il **codice univoco**:
 
 | Codice | Reparto          |
 | ------ | ---------------- |
@@ -34,13 +48,13 @@ Esempio:
 R03
 ```
 
-Il risultato mostrerà lo staff medico del reparto `Cardiologia`.
+Il risultato mostrerà **tutto** lo staff medico del reparto `Cardiologia`.
 
 ---
 
 ### Data di nascita
 
-Per filtrare la **data di nascita**, usare il formato `ISO 8601`.
+Per filtrare la **data di nascita**, utilizzare il formato `ISO 8601`.
 
 - Esempio completo (`YYYY-MM-DD`):
 
@@ -48,7 +62,7 @@ Per filtrare la **data di nascita**, usare il formato `ISO 8601`.
 1985-05-12
 ```
 
-- Esempio in formato ridotto (solo `YYYY`):
+- Solo anno (`YYYY`):
 
 ```txt
 1976
