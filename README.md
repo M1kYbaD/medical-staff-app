@@ -1,6 +1,7 @@
 # MedicalStaffApp
 
-MedicalStaffApp è un'app Angular per la gestione e la consultazione del personale medico e sanitario.
+MedicalStaffApp è un’applicazione web sviluppata in Angular per la gestione e la consultazione del personale medico e sanitario.
+Permette di visualizzare, filtrare e navigare i dati del personale in modo semplice e intuitivo.
 
 ---
 
