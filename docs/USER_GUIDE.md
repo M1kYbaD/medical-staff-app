@@ -11,7 +11,7 @@ Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
 
 ### ⚠️ Sensibilità
 
-La barra di ricerca è **case-insensitive**: non distingue tra maiuscole e minuscole.
+- La barra di ricerca è **case-insensitive**: non distingue tra maiuscole e minuscole.
 
 ---
 
