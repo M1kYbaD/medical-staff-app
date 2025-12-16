@@ -11,7 +11,7 @@ Per trovare i medici:
 
 Esempi:
 
-- `dr. rossi`
+- `dr. sala`
 - `dott.ssa ferri`
 
 ---
