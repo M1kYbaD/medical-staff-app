@@ -48,7 +48,7 @@ Per filtrare la **data di nascita**, usare il formato `ISO 8601`.
 1985-05-12
 ```
 
-- Esempio ridotto (solo `YYYY`):
+- Esempio in formato ridotto (solo `YYYY`):
 
 ```txt
 1976
