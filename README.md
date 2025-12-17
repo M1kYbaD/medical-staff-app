@@ -69,4 +69,4 @@ For more information on using the Angular CLI, including detailed command refere
 ## User Guide
 
 For usage details (`search tips`, `filters`, `conventions`), see
-[User Guide](docs/USER_GUIDE.md)
+[User Guide](docs/USER_GUIDE.md) page.
