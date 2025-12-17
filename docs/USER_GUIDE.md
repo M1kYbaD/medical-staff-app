@@ -15,7 +15,7 @@ Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
 
 ## 👨‍⚕️ Medici (Dottori e Dottoresse)
 
-Per cercare un medico, includere il titolo professionale nel campo di ricerca.
+Per cercare un medico, includere il **titolo professionale** nel campo di ricerca.
 
 ### Formati supportati
 
