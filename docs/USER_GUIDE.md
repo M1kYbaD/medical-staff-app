@@ -25,9 +25,9 @@ Per cercare un medico, includere il **titolo professionale** nel campo di ricerc
 ### Esempi
 
 ```txt
-dr. sala
+dr. Colombo
 
-dott.ssa ferri
+dott.ssa Ferri
 ```
 
 ## 🏥 Reparto
