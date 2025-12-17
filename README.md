@@ -71,4 +71,4 @@ For tutorials and more, visit [Angular](https://angular.dev/).
 ## User Guide
 
 For usage details (`search tips`, `filters`, `conventions`), see
-[User Guide](docs/USER_GUIDE.md) page.
+[User Guide](docs/USER_GUIDE.md).
