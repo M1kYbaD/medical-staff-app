@@ -13,8 +13,6 @@ Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
 
 - La barra di ricerca è **case-insensitive**: non distingue tra maiuscole e minuscole.
 
----
-
 ## 👨‍⚕️ Medici (Dottori e Dottoresse)
 
 Per cercare un medico, includere il titolo professionale nel campo di ricerca.
@@ -31,8 +29,6 @@ dr. sala
 
 dott.ssa ferri
 ```
-
----
 
 ## 🏥 Reparto
 
@@ -53,8 +49,6 @@ R03
 ```
 
 Mostrerà **TUTTO** lo staff medico del reparto `Cardiologia`.
-
----
 
 ## 🎂 Data di nascita
 
