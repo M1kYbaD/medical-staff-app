@@ -68,7 +68,7 @@ For tutorials and more, visit the visit the [W3 Schools Tutorials](https://www.w
 
 ---
 
-### User Guide
+## User Guide
 
 For usage details (`search tips`, `filters`, `conventions`), see
 [User Guide](docs/USER_GUIDE.md) page.
