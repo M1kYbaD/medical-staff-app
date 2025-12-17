@@ -19,8 +19,8 @@ Per cercare un medico, includere il **titolo professionale** nel campo di ricerc
 
 ### Formati supportati
 
-- `Dr.` - `dr.`
-- `Dott.ssa` - `dott.ssa`
+- `Dr.` o `dr.`
+- `Dott.ssa` o `dott.ssa`
 
 ### Esempi
 
