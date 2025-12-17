@@ -19,15 +19,15 @@ Per cercare un medico, includere il **titolo professionale** nel campo di ricerc
 
 ### Formati supportati
 
-- `dr.`
-- `dott.ssa`
+- `Dr.` - `dr.`
+- `Dott.ssa` - `dott.ssa`
 
 ### Esempi
 
 ```txt
-dr. Colombo
+Dr. Colombo
 
-dott.ssa Ferri
+Dott.ssa Ferri
 ```
 
 ## 🏥 Reparto
