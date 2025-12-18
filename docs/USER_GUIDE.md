@@ -1,28 +1,29 @@
 # MedicalStaffApp – User Guide
 
-Questa guida spiega come utilizzare al meglio i filtri di ricerca per trovare rapidamente il personale medico e sanitario all’interno dell’applicazione.
+The purpose of this guide is to explain how to use **search filters** to quickly find medical and healthcare personnel within the application.
 
 ---
 
-## 🔎 Ricerca del personale
+## 🔎 Personnel research
 
-La barra di ricerca consente di filtrare i risultati in base a nome, data di nascita, ruolo e reparto.  
-Di seguito sono riportati i formati consigliati per ottenere risultati accurati.
+The search bar allows you to filter results by `name`, `date of birth`, `role`, and `department`.
 
-### ⚠️ Sensibilità
+Below are the recommended formats to get accurate results.
 
-- La barra di ricerca è **CASE-INSENSITIVE**: non distingue tra maiuscole e minuscole.
+### ⚠️ Case sensitivity
 
-## 👨‍⚕️ Medici (Dottori e Dottoresse)
+- The search bar is **case-insensitive**, so ignore the case difference.
 
-Per cercare un medico, includere il **titolo professionale** nel campo di ricerca.
+## 👨‍⚕️ Doctors and Female Doctors
 
-### Formati supportati
+To search for a doctor, include the **professional title** in the search field.
 
-- `Dr.` o `dr.`
-- `Dott.ssa` o `dott.ssa`
+### Supported formats
 
-### Esempi
+- `Dr.` or `dr.`
+- `Dott.ssa` or `dott.ssa`
+
+### Examples
 
 ```txt
 Dr. Colombo
@@ -30,37 +31,37 @@ Dr. Colombo
 Dott.ssa Ferri
 ```
 
-## 🏥 Reparto
+## 🏥 Department
 
-Per il campo `Reparto`, è preferibile il **codice univoco**:
+For the `Department` field, the **unique code** is preferable:
 
-| Codice | Reparto          |
-| ------ | ---------------- |
-| R01    | Segreteria       |
-| R02    | Medicina Interna |
-| R03    | Cardiologia      |
-| R04    | Neurologia       |
-| ...    | ...              |
+| Code | Department       |
+| ---- | ---------------- |
+| R01  | Segreteria       |
+| R02  | Medicina Interna |
+| R03  | Cardiologia      |
+| R04  | Neurologia       |
+| ...  | ...              |
 
-Esempio:
+Example:
 
 ```txt
 R03
 ```
 
-Mostrerà **TUTTO** lo staff medico del reparto `Cardiologia`.
+It will show **ALL** the medical staff of the `Cardiology` department.
 
-## 🎂 Data di nascita
+## 🎂 Date of birth
 
-Per filtrare la **data di nascita**, utilizzare il formato `ISO 8601`.
+To filter the **date of birth**, use the `ISO 8601` format.
 
-- Data completa (`YYYY-MM-DD`):
+- Full date (`YYYY-MM-DD`):
 
 ```txt
 1985-05-12
 ```
 
-- Solo anno (`YYYY`):
+- Year only (`YYYY`):
 
 ```txt
 1976
