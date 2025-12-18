@@ -16,7 +16,7 @@ Below are the recommended formats to get accurate results.
 
 ## Doctors and Female Doctors
 
-To search for a doctor, include the **professional title** in the search field.
+To search for a **doctor**, include the **professional title** in the search field.
 
 ### Supported formats
 
