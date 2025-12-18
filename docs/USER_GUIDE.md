@@ -6,7 +6,7 @@ The purpose of this guide is to explain how to use **search filters** to quickly
 
 ## Personnel research
 
-The search bar allows you to filter results by `name`, `date of birth`, `role`, and `department`.
+The search bar allows you to filter results by `name`, `date_of_birth`, `role`, and `department`.
 
 Below are the recommended formats to get accurate results.
 
