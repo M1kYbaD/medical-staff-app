@@ -4,6 +4,11 @@
 
 It allows you to view, filter and navigate staff data in a simple and intuitive way.
 
+## User Guide
+
+For usage details (`search tips`, `filters`, `conventions`), see
+[User Guide](docs/USER_GUIDE.md).
+
 ---
 
 ## Development server
@@ -65,10 +70,3 @@ For more information on using the Angular CLI, including detailed command refere
 For tutorials and docs, go to [Angular](https://angular.dev/).
 
 - This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.8.
-
----
-
-## User Guide
-
-For usage details (`search tips`, `filters`, `conventions`), see
-[User Guide](docs/USER_GUIDE.md).
