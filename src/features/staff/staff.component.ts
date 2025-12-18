@@ -170,7 +170,7 @@ import { MedicalStaff } from './staff.types';
         background: #0000ff;
         color: #ffffff;
         border-color: #0000ff;
-        font-weight: 600;
+        font-weight: 550;
       }
 
       .pg-btn:disabled {
@@ -219,11 +219,11 @@ import { MedicalStaff } from './staff.types';
       }
 
       .arrow-btn:hover:not(:disabled) {
-        background-color: rgba(0, 0, 0, 0.05); /* leggermente scuro */
+        background-color: rgba(0, 0, 0, 0.06); /* leggermente scuro */
       }
 
       .arrow-btn:disabled {
-        opacity: 0.5;
+        opacity: 0.6;
         cursor: not-allowed;
       }
     `,
