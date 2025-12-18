@@ -1,8 +1,12 @@
 <h1 align="center">MedicalStaffApp</h1>
 
-**MedicalStaffApp** is a web application developed in **Angular** for managing and consulting medical and healthcare personnel.
-
-It allows you to view, filter and navigate staff data in a simple and intuitive way.
+<p align="center">
+  <img src="public/angular_icon_gradient.gif" alt="angular-logo" width="120px" height="120px"/>
+  <br>
+  <em>**MedicalStaffApp** is a web application developed in **Angular** for managing and consulting medical and healthcare personnel.
+    <br> It allows you to view, filter and navigate staff data in a simple and intuitive way.</em>
+  <br>
+</p>
 
 ## User Guide
 
