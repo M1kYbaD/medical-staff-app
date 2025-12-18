@@ -4,7 +4,7 @@ The purpose of this guide is to explain how to use **search filters** to quickly
 
 ---
 
-## 🔎 Personnel research
+## Personnel research
 
 The search bar allows you to filter results by `name`, `date of birth`, `role`, and `department`.
 
@@ -14,7 +14,7 @@ Below are the recommended formats to get accurate results.
 
 - The search bar is **case-insensitive**, so ignore the case difference.
 
-## 👨‍⚕️ Doctors and Female Doctors
+## Doctors and Female Doctors
 
 To search for a doctor, include the **professional title** in the search field.
 
@@ -31,7 +31,7 @@ Dr. Colombo
 Dott.ssa Ferri
 ```
 
-## 🏥 Department
+## Department
 
 For the `Department` field, the **unique code** is preferable:
 
@@ -51,7 +51,7 @@ R03
 
 It will show **ALL** the medical staff of the `Cardiology` department.
 
-## 🎂 Date of birth
+## Date of birth
 
 To filter the **date of birth**, use the `ISO 8601` format.
 
