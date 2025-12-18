@@ -1,4 +1,4 @@
-# MedicalStaffApp
+<h1 align="center">MedicalStaffApp</h1>
 
 **MedicalStaffApp** is a web application developed in **Angular** for managing and consulting medical and healthcare personnel.
 
