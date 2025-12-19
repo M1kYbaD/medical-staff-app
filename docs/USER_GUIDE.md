@@ -18,14 +18,14 @@ Below are the recommended formats to get accurate results.
 
 ## Doctors and Female Doctors
 
-To search for a **doctor**, include the **professional title** in the search field.
+To search for a **doctor**, include the `professional title` in the search field.
 
-### Supported formats
+### Supported formats:
 
 - `Dr.` or `dr.`
 - `Dott.ssa` or `dott.ssa`
 
-Examples
+Examples:
 
 ```txt
 Dr. Colombo
@@ -51,7 +51,7 @@ Example:
 R03
 ```
 
-It will show **ALL** the medical staff of the `Cardiology` department.
+This will show **ALL** the medical staff of the `Cardiology` department.
 
 ## Date of birth
 
