@@ -25,7 +25,7 @@ To search for a **doctor**, include the **professional title** in the search fie
 - `Dr.` or `dr.`
 - `Dott.ssa` or `dott.ssa`
 
-### Examples
+Examples
 
 ```txt
 Dr. Colombo
