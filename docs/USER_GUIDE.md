@@ -35,7 +35,7 @@ Dott.ssa Ferri
 
 ## Department
 
-For the `Department` field, the **unique code** is preferable:
+For the `Department` field, the **unique code** is preferable.
 
 | Code | Department        |
 | ---- | ----------------- |
