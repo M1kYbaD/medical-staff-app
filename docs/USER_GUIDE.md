@@ -1,4 +1,4 @@
-# MedicalStaffApp – User Guide
+<h1 align="center">MedicalStaffApp – User Guide</h1>
 
 The purpose of this guide is to explain how to use **search filters** to quickly find medical and healthcare personnel within the application.
 
