@@ -25,7 +25,15 @@ To search for a **doctor**, include the `professional title` in the search field
 - `Dr.` or `dr.`
 - `Dott.ssa` or `dott.ssa`
 
-Examples:
+For all the doctors:
+
+```txt
+Dr.
+
+Dott.ssa
+```
+
+Only for a specific doctor:
 
 ```txt
 Dr. Simone Ferrari
