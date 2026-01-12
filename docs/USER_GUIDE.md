@@ -28,9 +28,9 @@ To search for a **doctor**, include the `professional title` in the search field
 Examples:
 
 ```txt
-Dr. Simone
+Dr. Simone Ferrari
 
-Dott.ssa Giulia
+Dott.ssa Giulia Ferri
 ```
 
 ## Department
