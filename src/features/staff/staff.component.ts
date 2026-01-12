@@ -163,7 +163,7 @@ import { MedicalStaff } from './staff.types';
       }
 
       .pg-btn:hover {
-        background: #d9d9d9;
+        background: #e6e6e6;
       }
 
       .pg-btn.active {
