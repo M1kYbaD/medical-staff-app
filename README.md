@@ -65,7 +65,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## User Guide
 
 For usage details (`search tips`, `filters`, `conventions`), see
-[User Guide](docs/USER_GUIDE.md).
+[**User Guide**](docs/USER_GUIDE.md).
 
 ## Additional Resources
 
