@@ -8,11 +8,6 @@
   <br>
 </p>
 
-## User Guide
-
-For usage details (`search tips`, `filters`, `conventions`), see
-[User Guide](docs/USER_GUIDE.md).
-
 ---
 
 ## Development server
@@ -66,6 +61,11 @@ ng e2e
 ```
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+
+## User Guide
+
+For usage details (`search tips`, `filters`, `conventions`), see
+[User Guide](docs/USER_GUIDE.md).
 
 ## Additional Resources
 
