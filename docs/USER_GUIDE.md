@@ -44,13 +44,13 @@ Dott.ssa Giulia Ferri
 
 For the `Department` field, the **unique code** is preferable.
 
-| Code | Department        |
-| ---- | ----------------- |
-| R01  | Secretary         |
-| R02  | Internal Medicine |
-| R03  | Cardiology        |
-| ...  | ...               |
-| R10  | General Surgery   |
+| Code | Department         |
+| ---- | ------------------ |
+| R01  | Segreteria         |
+| R02  | Medicina Interna   |
+| R03  | Cardiologia        |
+| ...  | ...                |
+| R10  | Chirurgia Generale |
 
 Example:
 
