@@ -38,7 +38,7 @@ Dr. Simone Ferrari
 Dott.ssa Giulia Ferri
 ```
 
-- ⚠️ You **MUST** include the `professional title`, `first name`, and `last name` together.
+⚠️ You **MUST** include the `professional title`, `first name`, and `last name` together.
 
 ## Department
 
