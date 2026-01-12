@@ -14,7 +14,7 @@ Below are the recommended formats to get accurate results.
 
 ### ⚠️ Case sensitivity
 
-- The search bar is **case-insensitive**, so ignore the case difference.
+- The search bar is **Case-Insensitive**, so ignore the case difference.
 
 ## Doctors and Female Doctors
 
