@@ -22,7 +22,7 @@ To search for a **doctor**, include the `professional title` in the search field
 
 ### Supported formats
 
-**ALL** doctors:
+- **ALL** doctors:
 
 ```txt
 Dr.
@@ -30,7 +30,7 @@ Dr.
 Dott.ssa
 ```
 
-For a **specific** doctor:
+- For a **specific** doctor:
 
 ```txt
 Dr. Simone Ferrari
