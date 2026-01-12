@@ -42,8 +42,8 @@ For the `Department` field, the **unique code** is preferable.
 | R01  | Secretary         |
 | R02  | Internal Medicine |
 | R03  | Cardiology        |
-| R04  | Neurology         |
 | ...  | ...               |
+| R10  | General Surgery   |
 
 Example:
 
