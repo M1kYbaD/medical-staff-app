@@ -20,10 +20,7 @@ Below are the recommended formats to get accurate results.
 
 To search for a **doctor**, include the `professional title` in the search field.
 
-### Supported formats:
-
-- `Dr.` or `dr.`
-- `Dott.ssa` or `dott.ssa`
+### Supported formats
 
 For all the doctors:
 
