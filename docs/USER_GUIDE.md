@@ -55,7 +55,7 @@ This will show **ALL** the medical staff of the **`Cardiology`** department.
 
 ## Date of birth
 
-To filter the **date of birth**, use the `ISO 8601` format.
+To filter the **date of birth**, use the **`ISO 8601`** format.
 
 - Full date (`YYYY-MM-DD`):
 
