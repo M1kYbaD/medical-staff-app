@@ -58,7 +58,7 @@ Example:
 R03
 ```
 
-This will show **ALL** the medical staff of the `Cardiology` department.
+This will show **ALL** the medical staff of the `Cardiologia` department.
 
 ## Date of birth
 
