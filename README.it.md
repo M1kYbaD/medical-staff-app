@@ -73,11 +73,11 @@ Per maggiori informazioni sull’uso della Angular CLI, incluse le referenze det
 
 - **Questo progetto è stato generato utilizzando [Angular CLI](https://github.com/angular/angular-cli) `v20.3.8`**
 
----
-
 ## User Guide
 
 Per i dettagli di utilizzo (`search tips`, `filters`, `conventions`), consulta la [**User Guide**](docs/USER_GUIDE.md).
+
+---
 
 🌍 Leggilo in:
 
