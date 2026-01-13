@@ -1,4 +1,4 @@
-<h1 align="center">MedicalStaffApp 👨🏻‍⚕️</h1>
+<h1 align="center">MedicalStaffApp👨🏻‍⚕️</h1>
 
 <p align="center">
   <img src="public/angular_icon_gradient.gif" alt="angular-logo" width="150px" height="150px"/>
