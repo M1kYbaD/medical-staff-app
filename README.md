@@ -70,12 +70,12 @@ For more information on using the **Angular CLI**, including detailed command re
 
 - **This project was generated using [Angular CLI](https://github.com/angular/angular-cli) `v20.3.8`**
 
----
-
-## User Guide
+### User Guide
 
 For usage details (`search tips`, `filters`, `conventions`), see
 [**User Guide**](docs/USER_GUIDE.md).
+
+---
 
 🌍 Read this in:
 
