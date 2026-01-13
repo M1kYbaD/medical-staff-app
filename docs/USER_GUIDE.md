@@ -13,7 +13,7 @@ The search bar allows you to filter results by `name`, `date_of_birth`, `role`, 
 Below are the recommended formats to get accurate results.
 
 > [!NOTE]
-> ⚠️ The search bar is **Case-Insensitive**, so ignore the case difference.
+> ⚠️ The search bar is **Case-Insensitive**, so differences in letter casing are ignored.
 
 ## Doctors and Female Doctors
 
