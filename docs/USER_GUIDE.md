@@ -38,7 +38,7 @@ Dr. Simone Ferrari
 Dott.ssa Giulia Ferri
 ```
 
-⚠️ You **MUST** include the `professional title`, `first name`, and `last name` together.
+⚠️ You **MUST** include the `professional title`, `first name`, and `last name` **together**.
 
 ## Department
 
@@ -58,7 +58,8 @@ Example:
 R03
 ```
 
-This will show **ALL** the medical staff of the `Cardiologia` department.
+> [!NOTE]
+> This will show **ALL** the medical staff of the `Cardiologia` department.
 
 ## Date of birth
 
