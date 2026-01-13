@@ -59,7 +59,7 @@ R03
 ```
 
 > [!TIP]
-> This will show **ALL** the medical staff of the `Cardiologia` department.
+> This will show **ALL** the medical staff of the `Cardiologia` **department**.
 
 ## Date of birth
 
