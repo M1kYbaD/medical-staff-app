@@ -48,7 +48,7 @@ Per impostazione predefinita, la build di produzione ottimizza l’applicazione 
 
 ## Esecuzione dei test unitari
 
-Per eseguire i test unitari con il **test runner** [Karma](https://karma-runner.github.io) utilizza il seguente comando:
+Per eseguire i test unitari con il **test runner** [**Karma**](https://karma-runner.github.io) utilizza il seguente comando:
 
 ```bash
 ng test
