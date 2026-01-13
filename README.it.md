@@ -67,7 +67,7 @@ Puoi scegliere quello più adatto alle tue esigenze.
 
 ## Risorse aggiuntive
 
-Per tutorial e documentazione, visita [**Angular**](https://angular.dev/overview).
+Per tutorial e documentazione ufficiale, visita [**Angular**](https://angular.dev/overview).
 
 Per maggiori informazioni sull’uso della Angular CLI, incluse le referenze dettagliate dei comandi, visita la pagina [**Angular CLI Overview and Command Reference**](https://angular.dev/tools/cli).
 
