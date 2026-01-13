@@ -76,3 +76,8 @@ For more information on using the **Angular CLI**, including detailed command re
 
 For usage details (`search tips`, `filters`, `conventions`), see
 [**User Guide**](docs/USER_GUIDE.md).
+
+🌍 Read this in:
+
+- [English](README.md)
+- [Italiano](README.it.md)
