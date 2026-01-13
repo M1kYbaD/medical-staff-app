@@ -59,7 +59,7 @@ Example:
 R03
 ```
 
-> [!NOTE]
+> [!TIP]
 > This will show **ALL** the medical staff of the `Cardiologia` department.
 
 ## Date of birth
