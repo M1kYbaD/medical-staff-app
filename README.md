@@ -79,5 +79,5 @@ For usage details (`search tips`, `filters`, `conventions`), see
 
 🌍 Read this in:
 
-- [English](README.md)
 - [Italiano](README.it.md)
+- [English](README.md)
