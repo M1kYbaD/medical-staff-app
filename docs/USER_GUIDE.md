@@ -71,6 +71,12 @@ To filter the **date of birth**, use the `ISO 8601` format.
 1985-05-12
 ```
 
+- Month only (`MM`):
+
+```txt
+-05-
+```
+
 - Year only (`YYYY`):
 
 ```txt
