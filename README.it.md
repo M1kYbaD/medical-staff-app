@@ -74,7 +74,8 @@ Tutorial alternativo a [**GeeksforGeeks**](https://www.geeksforgeeks.org/angular
 
 Per maggiori informazioni sull’uso della Angular CLI, incluse le referenze dettagliate dei comandi, visita la pagina [**Angular CLI Overview and Command Reference**](https://angular.dev/tools/cli).
 
-> [!NOTE] > **Questo progetto è stato generato utilizzando [Angular CLI](https://github.com/angular/angular-cli) `v20.3.8`**
+> [!NOTE]
+> **Questo progetto è stato generato utilizzando [Angular CLI](https://github.com/angular/angular-cli) `v20.3.8`**
 
 ### User Guide
 
