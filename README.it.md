@@ -69,6 +69,8 @@ Puoi scegliere quello più adatto alle tue esigenze.
 
 Per tutorial e documentazione ufficiale, visita [**Angular**](https://angular.dev/overview).
 
+Tutorial alternativo a [**GeeksforGeeks**](https://www.geeksforgeeks.org/angular-js/angular-tutorial/).
+
 Per maggiori informazioni sull’uso della Angular CLI, incluse le referenze dettagliate dei comandi, visita la pagina [**Angular CLI Overview and Command Reference**](https://angular.dev/tools/cli).
 
 - **Questo progetto è stato generato utilizzando [Angular CLI](https://github.com/angular/angular-cli) `v20.3.8`**
